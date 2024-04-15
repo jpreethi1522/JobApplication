@@ -1,3 +1,12 @@
+###Output
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/c9730802-0edd-47b8-9bc8-56ee3637b224)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/ae1f3a72-ec20-471f-8b0c-52c9140a8253)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/e08f69fc-401e-4bc0-a297-6940ec00878f)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/8556d985-4ac6-4e93-b6ae-ec02f8251674)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/12266602-2f31-4d38-bc7e-428efbed53ff)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/91d76d4d-29e5-4516-a8c9-9dfbf538b7cb)
+![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/f163f236-a14f-4b43-8f96-7f3acf381244)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,14 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
 
-###Output
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/c9730802-0edd-47b8-9bc8-56ee3637b224)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/ae1f3a72-ec20-471f-8b0c-52c9140a8253)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/e08f69fc-401e-4bc0-a297-6940ec00878f)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/8556d985-4ac6-4e93-b6ae-ec02f8251674)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/12266602-2f31-4d38-bc7e-428efbed53ff)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/91d76d4d-29e5-4516-a8c9-9dfbf538b7cb)
-![image](https://github.com/jpreethi1522/JobApplication/assets/120386192/f163f236-a14f-4b43-8f96-7f3acf381244)
+
 
 
 
