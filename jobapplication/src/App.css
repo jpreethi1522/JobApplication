@@ -1,0 +1,72 @@
+
+ .container{
+  margin-left: 0%;
+  width: 100%;
+  height: 100%;
+ }
+ 
+ .container-shadow {
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2); /* Adding box-shadow */
+  width: 100%; /* Adjust width */
+  margin: 0 auto; /* Center the container */
+  padding: 20px; /* Add padding */
+ }
+ 
+ .sky-blue {
+  background-color: #87CEEB;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+ }
+ 
+ .icon {
+  font-size: 24px;
+  color: white;
+ }
+ 
+ .line {
+  border-top: 1px solid #000;
+  margin-top: 20px;
+ }
+ 
+ .oval {
+  display: inline-block;
+  background-color: #ccc;
+  border-radius: 40%;
+  width: 120px;
+  height: 42px;
+  line-height: 40px;
+  text-align: center;
+ }
+ 
+ .green-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+ 
+ /* Added CSS for footer */
+ footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  position: absolute; /* Adjust positioning to make footer scrollable */
+  bottom:-140%;
+  left: 0;
+  overflow-y: auto; /* Add overflow-y to enable scrolling */
+  max-height: 150px; /* Set max-height to define the maximum height for scrolling */
+}
+footer div {
+  margin-bottom: 50%;
+}
+footer a {
+  color: #87CEEB;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #5a94eb;
+}

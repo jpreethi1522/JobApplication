@@ -1,0 +1,112 @@
+body {
+    padding-top: 70px; 
+    margin-bottom: 150px; 
+  }
+  .turn-grey{
+      color:  #aca9a9;
+      /* font-weight: bold; */
+      font-size: 17px;
+  }
+  .header-container {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1000; 
+  }
+  .header-content {
+    display: flex;
+    flex-direction: column; 
+  }
+  .logo-container {
+    width: 50px;
+    height: 50px;
+    background-color: #d5e2f5;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+  }
+  .logo {
+    font-size: 35px;
+    color: #5a94eb;
+  }
+  .job-details {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .oval {
+    display: inline-block;
+    background-color: #e6e4e4;
+    border-radius: 40%;
+    width: 90px;
+    height: 38px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+  }
+  .button-container {
+    margin-left: auto;
+  }
+  .button {
+    padding: 10px 20px;
+    border:#0e0d0d;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid rgb(143, 142, 142); /* Add black border to the button */
+  }
+  .save-button {
+    background-color: #fdfcfc;
+    color: #646363;
+    margin-right: 10px;
+  }
+  .save-button:hover {
+    background-color: #dde9fa;
+  }
+  .apply-button {
+    background-color: #4CAF50;
+    color: #fff;
+  }
+  .job-details-container {
+    display: flex;
+    overflow-x: hidden;
+    padding-top: 110px; /* Adjust padding to accommodate the fixed header */
+  }
+  .job-details-left, .job-details-right {
+    flex: 1;
+    padding: 20px;
+  }
+  .job-details-left {
+    border-right: 1px solid #ccc;
+  }
+  p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #333;
+    line-height: 1.5;
+  }
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: absolute; /* Adjust positioning to make footer scrollable */
+    bottom: -90%;
+    left: 0;
+    overflow-y: auto; /* Add overflow-y to enable scrolling */
+    max-height: 150px; /* Set max-height to define the maximum height for scrolling */
+  }
+  footer div {
+    margin-bottom: 25px;
+  }
+  footer a {
+    color: #87CEEB;
+    text-decoration: none;
+  }
+  footer a:hover {
+    color: #5a94eb;
+  }
